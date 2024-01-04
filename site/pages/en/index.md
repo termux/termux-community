@@ -8,6 +8,14 @@ page_ref: /community/index.html
 
 Welcome to community documentation for Termux.
 
+&nbsp;
+
+
+
+## Rules
+
+**All our community members must follow the rules that we have defined [here](rules/index.md).**
+
 ---
 
 &nbsp;
